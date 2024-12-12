@@ -27,22 +27,22 @@
 <!-- 通常来说不需要手动修正人数，我们会通过 CI 自动统计 -->
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN COUNT -->
-已有 144 人签署！
+已有 221 人签署！
 <!-- END LGBT-CN COUNT -->
 <!-- 请不要更改上方的标签 -->
 
 <!-- 请不要更改下方的标签 -->
 <!-- BEGIN LGBT-CN SIGNATURE -->
-
 - [Percy](https://github.com/kercily)
 - [Eltrac](https://github.com/BigCoke233)
+- [AcboxSky](https://github.com/sheepbox8646)
 - [AyagawaSeirin](https://github.com/AyagawaSeirin)
-- [Bro-Xun](https://github.com/Bro-Xun)
+- [meow_starmoe](https://github.com/Bro-Xun)
 - [Broca-Phenol](https://github.com/Broca-Phenol)
 - [Sakitami](https://github.com/Sakitami)
 - [Ganxiaozhe](https://github.com/ganxiaozhe)
 - [LemonPrefect](https://github.com/LemonPrefect)
-- [AmemiyaSigure](https://github.com/AmemiyaSigure)
+- [qyl27](https://github.com/qyl27)
 - [vandarkhlome](https://github.com/megatontech)
 - [KevinZonda](https://github.com/KevinZonda)
 - [Moooebie](https://github.com/Moooebie)
@@ -57,7 +57,7 @@
 - [hoochanlon](https://github.com/hoochanlon)
 - [Panedioic](https://github.com/panedioic)
 - [zuorong-zhang](https://github.com/zrzjohn)
-- [Stapx Steve](https://twitter.com/Stapx_Steve)
+- [Stapx Steve](https://twitter.com/Stapx_Happy)
 - [KirisameMisawa](https://github.com/KirisameMisawa)
 - [Sukazyo](https://github.com/Eyre-S)
 - [RainbowBird](https://www.luoling8192.top/)
@@ -74,7 +74,7 @@
 - [SaoYan](https://github.com/SaoYan)
 - [StudentMain](https://github.com/studentmain)
 - [Rabbit0w0](https://github.com/Rabbit0w0)
-- [Restent Ou](https://github.com/SliverRiver327)
+- [Restent Ou](https://github.com/gxres042)
 - [Moycat](https://github.com/moycat)
 - [猫猫](https://github.com/Cattttttttt)
 - [BBleae](https://github.com/BBleae)
@@ -96,7 +96,6 @@
 - [KagurazakaKano](https://github.com/KagurazakaKano)
 - [livrth](https://github.com/livrth)
 - [Jimmy0v0](https://jimmy0w0.me)
-- [lzhbhlrpython](https://github.com/lzhbhlrpython)
 - [Timeemit-2017](https://github.com/Timeemit-2017)
 - [kawaai](https://github.com/kawaai-hina)
 - [vonhyou](https://github.com/vonhyou)
@@ -104,8 +103,7 @@
 - [Suzuya](https://github.com/Suzuya-arch)
 - [ruan4261](https://github.com/ruan4261)
 - [ChengZi](https://github.com/orangeczi)
-- [Yukikawa](https://github.com/TinQlo)
-- [YukiChiyoda](https://github.com/YukiChiyoda)
+- [Yukikawa](https://github.com/yukikawas)
 - [Cubik65536](https://cubik65536.top)
 - [bobby285271](https://github.com/bobby285271)
 - [LightQuantum](https://github.com/PhotonQuantum)
@@ -134,7 +132,7 @@
 - [ltyec🍥](https://github.com/ltyec)
 - [Winslow S.E.M.](https://github.com/SorenEricMent)
 - [Mastwet](https://github.com/mastwet)
-- [Sunset Lee](https://github.com/lwd-temp)
+- [Sunset Mikoto](https://github.com/SunsetMkt)
 - [DearJasker](https://github.com/DearJasker)
 - [三咲智子](https://github.com/sxzz)
 - [MWX](https://github.com/mwx2006)
@@ -174,10 +172,88 @@
 - [xBoyMinemc](https://github.com/xBoyminemc)
 - [linlinzzo](https://github.com/linlinzzo)
 - [Molyuu](https://github.com/Molyuu)
-- [xtex](https://xtexx.ml/)
+- [xtex](https://xtexx.eu.org/)
+- [purofle](https://github.com/purofle)
 - [Νίκκμχ](https://github.com/nikkuuwux)
 - [WeepingDogel](https://github.com/WeepingDogel)
 - [ZYGLQexplorer](https://github.com/ZYGLQexplorer)
+- [WorldHim](https://github.com/WorldHim)
+- [Léana 江](https://github.com/leana8959)
+- [北雁云依](https://github.com/BeiyanYunyi)
+- [Bigsk](https://www.ianxia.com)
+- [CyuuZ! And Zxgaer](https://github.com/dorary1)
+- [陈XX](https://github.com/woshishabii)
+- [白雨楠🍥](https://github.com/Shiroiame-Kusu)
+- [Chengnan](https://github.com/chengnan049)
+- [🪄 山海魔法师](https://github.com/iuu6)
+- [Cryolitia🍥](https://github.com/Cryolitia)
+- [TSaltedfishKing](https://github.com/TSaltedfishKing)
+- [夏沫花火zzz🌙](https://blog.1l1.icu)
+- [Ricky8955555](https://rkmiao.eu.org)
+- [朝倉初雪|Asakura hatsuyuki](https://github.com/hatsuyuki2333)
+- [LiangBurs](https://cnmobile.link)
+- [obaby](http://oba.by)
+- [宇创小涵(yuhan2680)](https://github.com/yuhan2680)
+- [小太](https://github.com/SatoSouta)
+- [Suzuki Chinatsu×Suzumiya🍥](https://github.com/ChinatsuSuzuki6)
+- [ohmyga](https://github.com/bakaomg)
+- [27Onion](https://github.com/onion108)
+- [Melusine](https://github.com/AI-Channel)
+- [Lead🍥](https://github.com/BreakingLead)
+- [Maxwell Ding](https://github.com/365cent)
+- [MoeMagicMango](https://github.com/moyoez)
+- [RostHogsa](https://github.com/Rost-Hogsa33)
+- [ChaosAttractor](https://github.com/lostattractor)
+- [The Nanami](https://github.com/NanamiNakano)
+- [little-sheepycn](https://github.com/little-sheepycn)
+- [sysROM](https://github.com/sysROM)
+- [Integral](https://github.com/Integral-Tech)
+- [Runxi Yu](https://github.com/runxiyu)
+- [剧毒的KCN](https://github.com/JDDKCN)
+- [Daiyangcheng](https://github.com/Daiyangcheng)
+- [Luochancy](https://github.com/Luochancy)
+- [一只小流浪](https://github.com/YiZhiXiaoLiuLang)
+- [MichaelGNU](https://github.com/Ruaaa1983)
+- [HuaDeity](https://github.com/HuaDeity)
+- [Mai Ooizumi](https://github.com/Mai-Ooizumi)
+- [humpback gusty](https://github.com/petricavalry)
+- [StreamReader](https://github.com/IOStreamReader)
+- [MoriMeina](https://github.com/MoriMeina)
+- [Sansan](https://github.com/sansanneko)
+- [MojaveHao](https://github.com/MojaveHao)
+- [BILLOW | HoshinoAya](https://github.com/imbillow)
+- [wangcham](https://github.com/wangcham)
+- [gsmabc|雨夏](https://github.com/gsmabc)
+- [Frank Ruan](https://github.com/orange2008)
+- [一般路过绫音酱_Cecilion](https://github.com/LyCecilion)
+- [Qcai](https://github.com/Qcaid)
+- [Baka宇宇🍥](https://github.com/bakaxiaoyu)
+- [初時雨](https://github.com/Hatsushigure)
+- [Rioshng·楉笙](https://github.com/Rioshng)
+- [SkyHigh.徐小涛](https://github.com/SkyHighR)
+- [Lafcadia](https://github.com/Lafcadia)
+- [huan_kong](https://github.com/huankong233)
+- [靜默電波 Silent Wave](https://github.com/Si1entW4ve)
+- [nan2xiao 暔晓](https://github.com/nan2xiao)
+- [SirEnri](https://github.com/sirenri2001)
+- [\_Wr\_](https://github.com/at-wr)
+- [Sparrow He](https://github.com/sparrowhe)
+- [yang233](https://github.com/hkyang233)
+- [MoYuanCN](https://github.com/MoYuanCN/)
+- [LokmenoWer](https://github.com/LokmenoWer)
+- [Anya Lin](https://github.com/muink)
+- [azurepwq](https://github.com/azurepwq)
+- [MM 喵了个](https://github.com/MMmiaolege)
+- [ReturnZeroGirl](http://www.returnzerogirl.top/)
+- [MingxuanGame](https://github.com/MingxuanGame)
+- [Lee](https://github.com/Leetfs)
+- [IXBOB](https://github.com/IXBOB)
+- [JosephLin](https://github.com/Mahironya)
+- [SASAS2](https://github.com/SASAS2)
+- [千坂神奈子](https://github.com/ChisakaKanako)
+- [祈/みつき るり🧋](https://github.com/RuriMitsuki)
+- [hjx754242756](https://github.com/hjx754242756)
+- [踪天朔](https://github.com/zongtianshuo)
 <!-- END LGBT-CN SIGNATURE -->
 <!-- 请不要更改上方的标签 -->
 
@@ -192,16 +268,18 @@
 |跨性别群体诸多权益应得到广泛关注|国务院妇女儿童工作委员会|[原文链接](http://www.nwccw.gov.cn/2018-08/14/content_218467.htm)|[备份链接](/post/跨性别群体诸多权益应得到广泛关注.md)|[归档1](https://archive.is/ypdtG)<br>[归档2](https://archive.is/I6nQm) |
 |为什么人们讨厌同性恋|[Eltrac Koalar](https://github.com/BigCoke233)|[原文链接](https://blog.guhub.cn/p/why-hate-homosexuality.html)|[备份链接](/post/why-hate-homosexuality.md)|N/A|
 |刻板印象与 LGBT+ 平权|[Eltrac Koalar](https://github.com/BigCoke233)|[原文链接](https://blog.guhub.cn/p/lgbt-pride.html)|[备份链接](/post/lgbt-pride-by-eltrac.md)|N/A|
-|LGBT？现有歧视与正确做法|[Restent](https://github.com/Restent)|[原文链接](/post/LGBT？现有歧视与正确做法.md)|[备份链接](/post/LGBT？现有歧视与正确做法.md)|N/A|
+|LGBT？现有歧视与正确做法|[Restent Ou](https://github.com/gxres042)|[原文链接](/post/LGBT？现有歧视与正确做法.md)|[备份链接](/post/LGBT？现有歧视与正确做法.md)|N/A|
 |知否？知否？应是绿肥红瘦|[KevinZonda](https://github.com/KevinZonda)|[原文链接](/post/知否？知否？应是绿肥红瘦.md)|[备份链接](/post/知否？知否？应是绿肥红瘦.md)|N/A|
 |同性恋不是病，真的没必要这么惶恐|雷叔说事（公众号）|[原文链接](https://mp.weixin.qq.com/s/bBI-DBeD5vuCeG_z_plP2g)|[备份链接](/post/同性恋不是病，真的没必要这么惶恐.md)|[WebArchive](https://web.archive.org/web/20210707003943/https://mp.weixin.qq.com/s/bBI-DBeD5vuCeG_z_plP2g)<br>[ArchiveToday](https://archive.ph/wip/2JO8w)|
 |你有反对同性恋的自由吗？| 水杉无水（公众号）|[原文链接](https://mp.weixin.qq.com/s?__biz=MzIyNjM2NzYyMQ==&mid=2247483877&idx=1&sn=6d9352ce91e27efccf8dfb51f5dba71e)|[备份链接](/post/你有反对同性恋的自由吗？.md)| [Telegraph](https://telegra.ph/%E4%BD%A0%E6%9C%89%E5%8F%8D%E5%AF%B9%E5%90%8C%E6%80%A7%E6%81%8B%E7%9A%84%E8%87%AA%E7%94%B1%E5%90%97-04-07)<br>[ArchiveToday](https://archive.is/IuALY#)|
-|2019 年 10 月 28 日在佛山一中发生的一切| [lixiang810](https://github.com/lixiang810)，即密涅瓦猫头鹰（知乎） |[原文链接](https://zhuanlan.zhihu.com/p/302444058)|[校订链接](/post/2019年10月28日在佛山一中发生的一切.md)| N/A |
+|2019 年 10 月 28 日在佛山一中发生的一切| [北雁云依](https://github.com/BeiyanYunyi)，即密涅瓦猫头鹰（知乎） |[原文链接](https://zhuanlan.zhihu.com/p/302444058)|[校订链接](/post/2019年10月28日在佛山一中发生的一切.md)| N/A |
 |保护跨性别群体不是一句空口号| [Nofated](https://github.com/Nofated095)|[原文链接](/post/保护跨性别群体不是一句空口号.md)|[备份链接](/post/保护跨性别群体不是一句空口号.md)| N/A |
 |2022上海疫情下411医院srs记录｜mtf | 花落www (知乎)|[原文链接](https://zhuanlan.zhihu.com/p/495654864)|[备份链接](/post/2022%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E4%B8%8B411%E5%8C%BB%E9%99%A2srs%E8%AE%B0%E5%BD%95%EF%BD%9Cmtf.md)| [ArchiveToday](https://archive.md/4rA6H) |
 |《日惹原则》问与答|[日惹原则](https://yogyakartaprinciples.org/principles-ch/)|[原文链接](https://yogyakartaprinciples.org/principles-ch/about/)| N/A |[WebArchive](https://web.archive.org/web/20220720161401/http://yogyakartaprinciples.org/principles-ch/about/)<br>[ArchiveToday](https://archive.ph/Dsu2u)|
 |只有跨性别者知道的世界|[在逃猫咪乌和安](https://www.zhihu.com/people/yamamoto)|[原文链接](https://zhuanlan.zhihu.com/p/20511057)|[备份链接](/post/只有跨性别者知道的世界.md)|[WebArchive](https://web.archive.org/web/20230106044746/https://zhuanlan.zhihu.com/p/20511057)|
 |在跨性别青少年门诊，目睹中国家庭的撕裂|真实故事计划（公众号）|[原文链接](https://mp.weixin.qq.com/s/B98WfvjXm55WX2so4zpYSw)|[备份链接](/post/在跨性别青少年门诊，目睹中国家庭的撕裂.md)|[ArchiveToday](https://archive.ph/GRNjp)|
+|我们无法也不需要为自己早就有的性别认同和性取向做任何解释。| [林林](https://www.xiaozonglin.cn/) [GitHub](https://github.com/linlinzzo) |[原文链接](https://www.xiaozonglin.cn/show-respect-for-difference/)| | [WebArchive](https://web.archive.org/web/20231224004147/https://www.xiaozonglin.cn/show-respect-for-difference/)|
+|我有一个同学 | [林林](https://www.xiaozonglin.cn/) [GitHub](https://github.com/linlinzzo)|[原文链接](https://www.xiaozonglin.cn/I-have-a-classmate/) | | [WebArchive](https://web.archive.org/web/20240815143615/https://www.xiaozonglin.cn/I-have-a-classmate/) |
 
 
 ## 构建者
